@@ -62,7 +62,8 @@ Thumbs.db
 
 # Nuget
 *.nupkg
-packages/
+# Nuget packages
+# (NOT Unity Packages/ — those must be tracked for CI)
 
 # Code Coverage
 /[Cc]ode[Cc]overage/
